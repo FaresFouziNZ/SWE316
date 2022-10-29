@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Java\\javafx-sdk-19\\lib\\javafx.base.jar",
+        "c:\\Java\\javafx-sdk-19\\lib\\javafx.controls.jar",
+        "c:\\Java\\javafx-sdk-19\\lib\\javafx.fxml.jar",
+        "c:\\Java\\javafx-sdk-19\\lib\\javafx.graphics.jar",
+        "c:\\Java\\javafx-sdk-19\\lib\\javafx.media.jar",
+        "c:\\Java\\javafx-sdk-19\\lib\\javafx.swing.jar",
+        "c:\\Java\\javafx-sdk-19\\lib\\javafx.web.jar",
+        "c:\\Java\\javafx-sdk-19\\lib\\javafx-swt.jar",
+        "c:\\Java\\wb\\commons-collections4-4.1.jar",
+        "c:\\Java\\wb\\poi-3.17.jar",
+        "c:\\Java\\wb\\poi-ooxml-3.17.jar",
+        "c:\\Java\\wb\\poi-ooxml-schemas-3.17.jar",
+        "c:\\Java\\wb\\xmlbeans-2.6.0.jar"
+    ]
+}
