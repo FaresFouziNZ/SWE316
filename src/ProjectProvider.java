@@ -27,7 +27,7 @@ public class ProjectProvider {
         return projects;
     }
 
-    static ArrayList<Project> merge(ArrayList<Project> projects, ArrayList<ProjectStage> stages) {
+    private static ArrayList<Project> merge(ArrayList<Project> projects, ArrayList<ProjectStage> stages) {
         System.out.println("Merging...");
         for (Project project : projects) {
             for (ProjectStage stage : stages) {
